@@ -13,10 +13,12 @@ h1{
 body{
     font-family: Carlito, serif;
     background-color: lightsteelblue;
+    text-align: center;
 }
 ul{
     list-style-type: square;
-    margin-left: 5%;
+    margin-left: 33%;
+    margin-right: auto;
     border: 1pt dotted grey;
     width: 30%;
 }
