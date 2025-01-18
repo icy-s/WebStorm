@@ -22,3 +22,7 @@ ul{
     border: 1pt dotted grey;
     width: 30%;
 }
+footer{
+    text-align: right;
+    color: firebrick;
+}
