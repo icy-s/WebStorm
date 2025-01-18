@@ -36,3 +36,9 @@ footer{
 div{
     font-size: large;
 }
+nav{
+    font-size: large;
+    display: flex;
+    margin-left: 46%;
+    gap: 8px;
+}
