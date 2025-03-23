@@ -13,10 +13,33 @@ h1{
 body{
     font-family: Carlito, serif;
     background-color: lightsteelblue;
+    text-align: center;
 }
 ul{
     list-style-type: square;
-    margin-left: 5%;
+    margin-left: 32.5%;
+    margin-right: auto;
     border: 1pt dotted grey;
     width: 30%;
+    font-size: large;
+}
+ol{
+    margin-left: 22%;
+    margin-right: auto;
+    border: 3pt dotted darkolivegreen;
+    width: 50%;
+    border-radius: 20px;
+}
+footer{
+    text-align: right;
+    color: orangered;
+}
+div{
+    font-size: large;
+}
+nav{
+    font-size: large;
+    display: flex;
+    margin-left: 46%;
+    gap: 8px;
 }
